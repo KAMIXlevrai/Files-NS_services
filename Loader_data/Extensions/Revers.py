@@ -82,7 +82,7 @@ COMMANDS = {
     "name [nom]": "Change le nom de l'environnement",
     "history": "Affiche l'historique",
     "del history": "Supprime l'historique",
-    "changealim": "Chganger le mode d'alimentation",
+    "changealim": "Changer le mode d'alimentation",
     "edit [fichier]": "Ouvre un fichier dans Notepad",
     "loadenv": "Charge un environnement",
     "loadenv [env]": "Charge un environnement spécifique",
